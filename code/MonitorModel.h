@@ -2,7 +2,7 @@
 #define MonitorModel_h
 
 #include <stdio.h>
-#include "ObjModel.h"
+#include "Obj.h"
 
 
 class MonitorModel:public ObjModel {
