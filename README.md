@@ -4,7 +4,7 @@
 Basic：
 1.Basic element in the room
 2.First perspective
-3.Light and shadow
+3.Light
 
 
 Prospect:
